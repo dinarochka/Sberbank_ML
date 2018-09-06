@@ -52,3 +52,6 @@ http://scikit-learn.org/stable/
 https://www.kaggle.com/zubairahmed/79-63-acc-with-xgboost-on-pima-indian-diabetes
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+
+
+https://github.com/catboost/catboost/blob/master/catboost/tutorials/catboost_python_tutorial.ipynb
